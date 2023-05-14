@@ -1,7 +1,7 @@
 # Smart Autonomous Visual Emergency Drone (SAVED)
 
 <p align="center">
-  <img width="350" height="350" src="https://github.com/AkiraY1/SAVED/blob/main/AdditionalFiles/fbd_tri.JPG">
+  <img width="550" height="350" src="https://github.com/AkiraY1/SAVED/blob/main/AdditionalFiles/fbd_tri.JPG">
 </p>
 
 
